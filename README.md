@@ -2,7 +2,11 @@
 <div align='center'>
 <img alt="Static Badge" src="https://img.shields.io/badge/Laravel-red">
 <img alt="Static Badge" src="https://img.shields.io/badge/Livewire-blue">
-<img alt="Static Badge" src="https://img.shields.io/badge/Vue-green">
+<img alt="Static Badge" src="https://img.shields.io/badge/Vue%JS-green">
+<img alt="Static Badge" src="https://img.shields.io/badge/TailwindCSS-cyan">
+<img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-purple">
+<img alt="Static Badge" src="https://img.shields.io/badge/Inertia%20JS-violet">
+
 </div>
 
 <h3 align="center">Connect with Me</h3>
