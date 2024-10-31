@@ -1,7 +1,9 @@
 <h3 align="center">Stack</h3>
-- <img alt="Static Badge" src="https://img.shields.io/badge/Laravel-red">
-- <img alt="Static Badge" src="https://img.shields.io/badge/Livewire-blue">
-- <img alt="Static Badge" src="https://img.shields.io/badge/Vue-green">
+<div align='center'>
+<img alt="Static Badge" src="https://img.shields.io/badge/Laravel-red">
+<img alt="Static Badge" src="https://img.shields.io/badge/Livewire-blue">
+<img alt="Static Badge" src="https://img.shields.io/badge/Vue-green">
+</div>
 
 <h3 align="center">Connect with Me</h3>
 <p align="center">
