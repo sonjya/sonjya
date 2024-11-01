@@ -1,11 +1,11 @@
 <h3 align="center">Stack</h3>
 <div align='center'>
-<img alt="Static Badge" src="https://img.shields.io/badge/Laravel-red">
-<img alt="Static Badge" src="https://img.shields.io/badge/Livewire-blue">
-<img alt="Static Badge" src="https://img.shields.io/badge/Vue%20JS-green">
-<img alt="Static Badge" src="https://img.shields.io/badge/TailwindCSS-cyan">
-<img alt="Static Badge" src="https://img.shields.io/badge/Bootstrap-purple">
-<img alt="Static Badge" src="https://img.shields.io/badge/Inertia%20JS-violet">
+<img alt="" src="https://img.shields.io/badge/Laravel-red">
+<img alt="" src="https://img.shields.io/badge/Livewire-blue">
+<img alt="" src="https://img.shields.io/badge/Vue%20JS-green">
+<img alt="" src="https://img.shields.io/badge/TailwindCSS-cyan">
+<img alt="" src="https://img.shields.io/badge/Bootstrap-purple">
+<img alt="" src="https://img.shields.io/badge/Inertia%20JS-violet">
 
 </div>
 
@@ -14,11 +14,9 @@
   <a href="mailto:jaysonjonesbooc.jjb@gmail.com" target="_blank">
     <img align="center" src="assets/gmail.png" alt="mail" height="50" width="55" />
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://facebook.com/sonjyaaa" target="_blank">
     <img align="center" src="assets/facebook.png" alt="website" height="50" width="50" />
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/jayson-jones-booc-839490169/" target="_blank">
     <img align="center" src="assets/linkedin.png" alt="linkedin" height="60" width="60" />
   </a>
