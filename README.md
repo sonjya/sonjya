@@ -1,8 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
-# Hi there, I'm Jayson 🧑‍💻
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%" height='0%'>
+## Hi there, I'm Jayson 🧑‍💻
 Connect with me:
-<p>
+<!-- <p>
   <a href="mailto:jaysonjonesbooc.jjb@gmail.com" target="_blank">
     <img align="center" src="assets/gmail.png" alt="mail" height="50" width="55" />
   </a>
@@ -12,7 +11,7 @@ Connect with me:
   <a href="https://www.linkedin.com/in/jayson-jones-booc-839490169/" target="_blank">
     <img align="center" src="assets/linkedin.png" alt="linkedin" height="60" width="60" />
   </a>
-</p>
+</p> -->
 
 
 <h3 align="center">Stack</h3>
