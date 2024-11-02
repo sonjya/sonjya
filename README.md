@@ -1,6 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
+<p align='center'>> Hey there!, I'm Jayson 🧑‍💻</p>
+<p align='center'>[I'm a web developer based from Philippines]</p>
 
-# Hi there, I'm Jayson 🧑‍💻
+
 
 <!-- <p>
   <a href="mailto:jaysonjonesbooc.jjb@gmail.com" target="_blank">
