@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%" height='0%'>
-## Hi there, I'm Jayson 🧑‍💻
-Connect with me:
+#Hi there, I'm Jayson 🧑‍💻
+
 <!-- <p>
   <a href="mailto:jaysonjonesbooc.jjb@gmail.com" target="_blank">
     <img align="center" src="assets/gmail.png" alt="mail" height="50" width="55" />
