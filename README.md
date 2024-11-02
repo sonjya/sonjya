@@ -1,6 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 <p align='center'>> Hey there!, I'm Jayson 🧑‍💻</p>
-<p align='center'>[I'm a web developer based from Philippines]</p>
+<p align='center'>[ A web developer based from Philippines ]</p>
+<p align='center'>
+    ![Static Badge](https://img.shields.io/badge/Laravel-black?style=for-the-badge&logo=laravel)
+</p>
 
 
 
