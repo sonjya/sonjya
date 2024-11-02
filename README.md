@@ -2,7 +2,7 @@
 <p align='center'>> Hey there!, I'm Jayson 🧑‍💻</p>
 <p align='center'>[ A web developer based from Philippines ]</p>
 <p align='center'>
-    ![Static Badge](https://img.shields.io/badge/Laravel-black?style=for-the-badge&logo=laravel)
+    <img src="https://img.shields.io/badge/Laravel-black?style=for-the-badge&logo=laravel" alt='laravel'>
 </p>
 
 
