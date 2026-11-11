@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 <p align='center'>
-  <img src="https://img.shields.io/badge/Hi,%20I'm%20Jayson-black?style=for-the-badge" alt="Hi there!, I'm jj"></p>
+  <img src="https://img.shields.io/badge/Hi,%20I'm%20Jayson-black?style=for-the-badge" alt="Hi there!, I'm JJ"></p>
 <p align='center'>
  <img src="https://img.shields.io/badge/A%20Web%20Developer%20from%20Philippines-black?style=for-the-badge">
 </p>
